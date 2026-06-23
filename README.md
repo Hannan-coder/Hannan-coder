@@ -1,18 +1,8 @@
 ## Hey there! 👋
 
 I'm **Abdul Hannan**, an AI & Machine Learning Engineer passionate about building intelligent systems that solve real-world problems.
-
 I specialize in **Generative AI, Agentic AI, NLP and Automation systems**, with a strong focus on creating impactful AI-driven solutions.
-
 As an **IEEE Member** and Computer Science student at the **University of Central Punjab**, I enjoy transforming ideas into scalable applications — from data collection and model training to deployment and user experience.
-
-### 🚀 What I Do
-
-- Build AI-powered applications using Machine Learning and Deep Learning
-- Develop Generative AI solutions with LLMs and Prompt Engineering
-- Create Computer Vision systems for real-time analysis and feedback
-- Design NLP applications including chatbots and language-based solutions
-- Develop modern, responsive web applications
 
 ### 💼 Experience
 
@@ -31,14 +21,6 @@ Contributed to web development projects, building responsive and user-focused ap
 - AI Automation & Business Solutions
 - Machine Learning & Deep Learning
 - Web Development
-
-### 🌱 Currently Learning
-
-- Agentic AI Systems
-- RAG (Retrieval-Augmented Generation)
-- Advanced Deep Learning Architectures
-- AI Workflow Automation
-- MLOps & Model Deployment
 
 ### 🛠️ Tech Stack
 
